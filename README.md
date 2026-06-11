@@ -99,13 +99,16 @@ Open it in Power BI Desktop.
 Refresh the dataset if required.
 Use regional filters to explore different business perspectives.
 Navigate between Dashboard and Forecast pages.
+
 📁 Project Structure
 ├── Dataset/
-│   └── SuperStore.csv
+│   └── SuperStore_Sales_Dataset.csv
 ├── Dashboard/
 │   └── Sales_Dashboard.pbix
 ├── Screenshots/
-│   ├── Dashboard.png
-│   ├── Region_Filter.png
-│   └── Forecast.png
+│   ├── Sales_Dashboard.pdf
 └── README.md
+
+👤 Author
+Ritu Dey
+Data Analytics | Power BI | Excel | Data Visualization
